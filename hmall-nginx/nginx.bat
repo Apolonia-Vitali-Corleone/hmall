@@ -1,0 +1,1 @@
+start F:\BaiduNetdiskDownload\hmall-nginx\nginx.exe

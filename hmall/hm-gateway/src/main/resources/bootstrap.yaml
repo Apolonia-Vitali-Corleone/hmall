@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    nacos:
+      server-addr: 192.168.32.136:8848
+      config:
+        file-extension: yaml
+        shared-configs:
+          - dataId: shared-log.yaml # 共享日志配置
+          - dataId: shared-sentinel.yaml # sentinel的配置信息
