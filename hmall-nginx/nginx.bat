@@ -1,1 +1,1 @@
-start F:\BaiduNetdiskDownload\hmall-nginx\nginx.exe
+start F:\GithubRepositories\hmall\hmall-nginx\nginx.exe
